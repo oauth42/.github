@@ -1,10 +1,6 @@
-<img src="AppIcon-Dark.svg" alt="OAuth42" width="80" align="left" style="margin-right: 16px;">
-
 # OAuth42
 
 **Enterprise Authentication for Modern Applications**
-
-<br clear="left">
 
 OAuth42 is a SaaS authentication provider implementing OAuth 2.0 and OpenID Connect with multi-factor authentication. Built for everyone from solo developers shipping their first app to enterprises with complex security requirements.
 
